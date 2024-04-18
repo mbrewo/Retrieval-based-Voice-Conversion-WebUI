@@ -5,7 +5,7 @@ scipy
 librosa==0.9.1
 llvmlite
 fairseq
-faiss-cpu
+faiss-cpu==1.7.0
 gradio==4.23.0
 Cython
 pydub>=0.25.1
